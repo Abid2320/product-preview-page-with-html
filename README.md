@@ -13,4 +13,4 @@ This page was built to practice HTML5 semantics and HTML structure
 
 ## Live preview
 
-[See it on github pages](git remote add origin https://github.com/Abid2320/product-preview-page-with-html.git)
+[View it on GitHub Pages]()
